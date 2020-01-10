@@ -3,11 +3,11 @@
 
 #sidebarMenu {
     height: 100%;
-    width: 11em;
+    width: 13em;
     position: fixed;
     right: 0%;
     top: 0%;
-    transform: translateX(11em);
+    transform: translateX(13em);
     transition: transform 150ms ease-in-out;
     z-index: 90;
 }
@@ -89,7 +89,7 @@
     // vertical line
     // border-left: 6px solid $accent;
     border-bottom: 1px solid $accent;
-    width: 10em;
+    width: 12em;
     margin: auto;
     margin-right: -10px;
     margin-bottom: 2em;
